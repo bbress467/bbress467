@@ -1,4 +1,4 @@
-## Hi there I am chanign the readme 👋
+## Student at Northeastern University majoring in computer science and economics. 
 
 <!--
 **bbress467/bbress467** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

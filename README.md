@@ -1,16 +1,19 @@
-## Student at Northeastern University majoring in computer science and economics. 
+# Hi, I'm Bobby 👋
 
-<!--
-**bbress467/bbress467** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS + Economics @ Northeastern (Honors) · Research Assistant in labor economics · Looking for Spring 2027 co-ops
 
-Here are some ideas to get you started:
+I like building tools where software meets finance and economic data.
 
-- 🔭 I’m currently working on CS project
-- 🌱 I’m currently learning coding
-- 👯 I’m looking to collaborate on a cs project
-- 🤔 I’m looking for help with cs project
-- 💬 Ask me about math
-- 📫 How to reach me: email
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I like UFC
--->
+## What I'm working on
+
+- **[EarningsLens](https://github.com/bbress467/earnings-lens)**: AI-powered earnings call transcript analyzer (React, Node/Express, Anthropic API, tool-use agent with caching + streaming). [Live demo](https://earnings-lens-production.up.railway.app/)
+- **[Poker Odds](https://github.com/bbress467/poker-odds)**: calculates hand outcome probabilities and suggests next moves
+- **EU Energy Security Dashboard**: SQL database design, dashboard frontend, Docker deployment (team project, Leuven)
+
+## Tools
+
+Python (pandas) · JavaScript/React · Node.js · SQL · R · Stata · Docker
+
+## Contact
+
+bbress467@gmail.com · [LinkedIn](https://www.linkedin.com/in/bobbybress/)

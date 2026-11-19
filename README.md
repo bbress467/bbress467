@@ -1,4 +1,4 @@
-# Hi, I'm Bobby 👋
+# Hi, I'm Bobby
 
 CS + Economics @ Northeastern (Honors) · Research Assistant in labor economics · Looking for Spring 2027 co-ops
 
